@@ -1,4 +1,4 @@
 - 😄 Hello, I am Becheanu Cornel-Constantin
 - 👨🏻‍🎓 I am a Robotics Student at Universitatea Transilvania din Brasov
+- 💻 I am a Robotics Intern at Vitesco Technologies
 - 🧭 LinkedIn account: https://www.linkedin.com/in/cornel-constantin-becheanu-670086247/
-- 🚀 CV : https://drive.google.com/file/d/1LWXM74ujmJMa5uR4uc6rSh-4f2TDuKbF/view?usp=share_link
