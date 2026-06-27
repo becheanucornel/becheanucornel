@@ -1,6 +1,5 @@
 - 😄 Hello, I am Becheanu Cornel-Constantin
-- 👨🏻‍🎓 I am a Robotics Student at Universitatea Transilvania din Brasov
-- 💻 I am a Junior Robotics Engineer at Schaeffler
+- 🎓 I am a Robotics Engineer with a strong passion for ROS2 developed applications.
 - 🧭 LinkedIn account: https://www.linkedin.com/in/cornel-constantin-becheanu-670086247/
 
 This GitHub page is the home of all of my personal projects.
